@@ -1,5 +1,5 @@
 <Response>
-  <Speak language="fr-FR">
-    Ceci est un test. Attention. Machine biochar à l'arrêt. Je répète. Machine biochar à l'arrêt.
+  <Speak language="fr-FR" loop="3">
+    Attention, machine biochar a l'arret
   </Speak>
 </Response>
