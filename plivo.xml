@@ -1,5 +1,5 @@
 <Response>
-  <Speak>
-    Congratulations! You've made your first outbound call!
+  <Speak language="fr-FR">
+    Bonjour ! Ceci est un test. Merci pour votre attention.
   </Speak>
 </Response>
